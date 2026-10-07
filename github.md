@@ -1,3 +1,6 @@
+https://github.com/Jmp13033/python_course/blob/main/github.md
+
+
 # Git and GitHub Setup — Windows
 
 This guide will help you set up Git and GitHub on a Windows computer.
