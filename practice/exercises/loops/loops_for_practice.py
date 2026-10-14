@@ -136,6 +136,9 @@ print("\n----- Challenge 7 -----")
 
 # Your code here
 
+for i in range(1, 13):
+    print(f"5 x {i} = {5 * i}")
+
 
 
 # ==========================================
