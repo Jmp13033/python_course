@@ -25,6 +25,9 @@ Complete each challenge.
 print("\n----- Challenge 1 -----")
 
 # Your code here
+animals = ["Dog", "Cat", "Lion", "Tiger", "Elephant"]
+for animal in animals:
+    print(animal)
 
 
 
@@ -44,6 +47,9 @@ print("\n----- Challenge 1 -----")
 print("\n----- Challenge 2 -----")
 
 # Your code here
+names = ["Carter", "James", "Mia", "Ben", "Anthony"]
+for name in names:
+    print("Hello", name)
 
 
 
@@ -66,6 +72,9 @@ print("\n----- Challenge 2 -----")
 print("\n----- Challenge 3 -----")
 
 # Your code here
+inventory = ["Sword", "Sheild", "Potion", "Bow"]
+for item in inventory:
+    print("You have a ", item )
 
 
 
@@ -85,7 +94,9 @@ print("\n----- Challenge 3 -----")
 print("\n----- Challenge 4 -----")
 
 # Your code here
-
+numbers = [5, 10, 15, 20]
+for number in numbers:
+    print(number)
 
 
 # ==========================================
@@ -105,6 +116,12 @@ print("\n----- Challenge 4 -----")
 print("\n----- Challenge 5 -----")
 
 # Your code here
+fav_food = ["Soup", "Waffles", "Pizza"]
+for food in fav_food:
+    if food == "Pizza":
+        print("I found my favorite food!")
+    else:
+        print(f"I like {food}")
 
 
 
@@ -117,6 +134,9 @@ print("\n----- Challenge 5 -----")
 print("\n----- Challenge 6 -----")
 
 # Your code here
+range(10)
+for number in range(1, 11, 3):
+    print(number)
 
 
 
@@ -135,6 +155,9 @@ print("\n----- Challenge 6 -----")
 print("\n----- Challenge 7 -----")
 
 # Your code here
+range(10)
+for number in range(15):
+    print(f"{number} * 5 {5 * number}")
 
 for i in range(1, 13):
     print(f"5 x {i} = {5 * i}")
