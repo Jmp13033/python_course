@@ -22,7 +22,7 @@
 # Store the answer in a variable named name.
 
 
-# TODO 2: Ask the player for their age.
+age = int(input("How old are you? "))
 # Convert the answer to an integer and store it in age.
 
 
